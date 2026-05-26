@@ -33,8 +33,8 @@ Your task is to write a series of functions that execute the following tasks:
     * truncate("Well, that's just, like, your opinion man.") -> "Well, that's ju..."
 * `ciEmailify` - creates an email from a two-part name
   * Examples:
-    * ciEmailify('colin jaffe') -> 'colin.jaffe@codeimmersives.com'
-    * ciEmailify('Anthony DeRosa') -> 'anthony.derosa@codeimmersives.com'
+    * ciEmailify('dan rodney') -> 'dan.rodney@nobledesktop.com'
+    * ciEmailify('Chett Tiller') -> 'chett.tiller@nobledesktop.com'
 * `reverse` - reverses the given string
   * Examples:
     * reverse('colin') -> 'niloc'
